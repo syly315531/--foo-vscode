@@ -12,3 +12,5 @@ Clients:
 Subscribing URL:
 - Clash: `https://raw.githubusercontent.com/syly315531/Proxy/master/dist/clash.config.yaml`
 - V2Ray: `https://raw.githubusercontent.com/syly315531/Proxy/master/dist/v2ray.config.txt`
+## Quick start
+## installation
